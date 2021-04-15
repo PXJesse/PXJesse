@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @PXJesse
 - 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning new front-end preprocessors and frameworks
+- ✨ My most inspiring project so far is an online adaptation of the card game UNO!
